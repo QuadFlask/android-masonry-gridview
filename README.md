@@ -12,9 +12,13 @@ Simple Column Gridview like Pinterest for android.
 
 ### Screenshot
 
-![screenshot1](https://github.com/QuadFlask/ansroid-masonry-gridview/blob/master/screenshot/Screenshot_2014-02-06-14-31-13.png?raw=true)
+> uploaded project's screenshot
+
 ![screenshot2](https://github.com/QuadFlask/ansroid-masonry-gridview/blob/master/screenshot/Screenshot_2014-02-06-15-21-29.png?raw=true)
 ![screenshot3](https://github.com/QuadFlask/ansroid-masonry-gridview/blob/master/screenshot/Screenshot_2014-02-06-15-21-34.png?raw=ture)
+> sample
+
+![screenshot1](https://github.com/QuadFlask/ansroid-masonry-gridview/blob/master/screenshot/Screenshot_2014-02-06-14-31-13.png?raw=true)
 
 
 ### TODO
